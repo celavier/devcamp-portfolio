@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/celavier/cel_view_tool
+  revision: 07f9d093440fc76c979b5a09fa20ad366330b0ac
+  specs:
+    cel_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -192,6 +198,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.1.1)
   byebug
+  cel_view_tool!
   coffee-rails (~> 4.2)
   devise (~> 4.4, >= 4.4.3)
   friendly_id (~> 5.1.0)
